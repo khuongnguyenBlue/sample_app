@@ -18,4 +18,9 @@
 
 .byebug_history
 
+# ignore something else
+.drone.yml
+Dockerfile
+.framgia-ci-reports/
+.framgia-ci-result.temp.yml
 .idea/
